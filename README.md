@@ -1,6 +1,6 @@
 # CLUSTERS_PLOTTER
 
-Choosing up to three files to Cluster :
+Choosing up to three files to Cluster .
 
 ![Alt text](/images/Choosing_Files.png?raw=true "Optional Title")
 
