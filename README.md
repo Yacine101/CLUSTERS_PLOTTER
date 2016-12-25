@@ -1,6 +1,8 @@
 # CLUSTERS_PLOTTER
 
-Choosing up to three files to Cluster .
+A python desktop application that takes up to three files and renders an image with different clusters separated by colors .
+
+Choosing the files .
 
 ![Alt text](/images/Choosing_Files.png?raw=true "Optional Title")
 
